@@ -7,7 +7,7 @@
 
 **A production-like small office network design featuring dynamic EIGRP routing, VLAN segmentation, and enterprise services.**
 
-![Network Topology](https://via.placeholder.com/800x400/0A2540/FFFFFF?text=Small+Office+EIGRP+Topology) <!-- Replace with actual screenshot -->
+![Network Topology](https://raw.githubusercontent.com/sarowarhosen01/Small-Office-Network-with-Basic-EIGRP/refs/heads/main/Screenshots/Topology.jpg) 
 
 ## Project Overview
 
